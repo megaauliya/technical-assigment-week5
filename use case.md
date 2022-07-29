@@ -1,0 +1,3 @@
+Sensor adalah bagian dari kamera yang benar-benar menangkap gambar atau semua informasi yang terdapat dalam file RAW. Cahaya yang di tangkap dipantulkan oleh lensa ke sensor untuk membuat gambar.
+
+Sebuah alat di pasang sebuah sensor camera yang digunakan untuk melihat keadaan sekitar. Sensor camera tersebut bisa menyala dan di gunakan setelah di set dengan benar. Camera tersebut akan mendeteksi keadaan sekitar seperti keadaan bayi di atas ranjang jika bayi dalam kondisi tidak aman sensor akan memberikan laporan atau warning kepada orang tua bayi melalui handphone.
